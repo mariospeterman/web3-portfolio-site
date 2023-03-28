@@ -4,27 +4,21 @@ import solanaAdsImg from "./public/solana-ads.jpg";
 
 export const portfolio = {
   about: {
-    firstName: "Kamila",
-    lastName: "Mendoza",
+    firstName: "Mattia",
+    lastName: "Mennonna",
     img: profileImg,
-    bio: `Hi, I'm Kamila! 
+    bio: `Hi, ich bin Mattia! 
 
-I began my web development journey 8 years ago and for the last 2 have committed myself to learning web3 technologies.
+    ich bin begeistert, mich als Music Supervisor bei ROBA Production Music zu bewerben. Als leidenschaftlicher Musikliebhaber und erfahrener Branchenexperte bin ich davon überzeugt, dass ich ein wertvolles Mitglied Ihres Teams sein kann.
 
-I have considerable experience with solidity and rust and have developed dozens of smart contracts for ethereum/solana.
-
-I also have considerable experience with nextjs, typescript, and postgres, which has become my stack of choice for most dapps.
-
-Through my career I have dabbled with several avenues of programming including security, data science, and computer vision, though nothing has satisfied me quite like web development.
-
-I was born in Mexico City and moved to the US when I was was 15. Because of this I am fluent in both Spanish and English.
-
-Shortly after moving to the US, I studied computer science at the Rochester Institiute of Technology where I graduated with a 3.95 GPA
-
-After school, I worked as a fullstack engineer at Target for 3 years where I primarily worked on supply chain API's and UI's. 
-
-I then decided that enterprise life is not for me and jumped into the startup world where I've been enjoying my time working with small teams!`,
-    skills: ["TypeScript", "NextJS", "Rust", "Solidity", "Solana", "Polygon"],
+    ROBA Production Music hat sich einen Namen als führender Anbieter von Musiklizenzen für Film, Fernsehen und andere Medien gemacht. Ich bin begeistert von der Möglichkeit, mit einem Unternehmen zusammenzuarbeiten, das sich der Qualität und Kreativität in der Musik verschrieben hat. Als Music Supervisor würde ich eine Schlüsselrolle bei der Auswahl und Bereitstellung von Musik für Ihre Kunden spielen und dazu beitragen, dass Ihre Projekte einzigartig und unvergesslich sind.
+    
+    Ich verfüge über umfangreiche Erfahrung in der Musikbranche, die ich in der Lage bin, in meine Arbeit als Music Supervisor zu integrieren. Ich habe bereits mit zahlreichen Künstlern und Produzenten zusammengearbeitet, um Musik für Film- und Fernsehprojekte zu erstellen. Meine Fähigkeiten in der Musikrecherche und -auswahl sowie meine Fähigkeit, mit Künstlern und Kunden zusammenzuarbeiten, machen mich zu einem starken Kandidaten für die Position des Music Supervisors bei ROBA Production Music.
+    
+    Ich bin überzeugt, dass meine Leidenschaft für Musik und meine Erfahrung in der Branche mich zu einem wertvollen Mitglied Ihres Teams machen werden. Ich bin bereit, hart zu arbeiten und alles zu tun, um sicherzustellen, dass ROBA Production Music weiterhin der führende Anbieter von Musiklizenzen bleibt.
+    
+    Vielen Dank für Ihre Berücksichtigung meiner Bewerbung. Ich freue mich darauf, von Ihnen zu hören.`,
+    skills: ["Ableton", "ROBA", "Viola", "Fender", "Yamaha", "lambda-Labs"],
   },
   projects: [
     {
@@ -57,3 +51,4 @@ Ads can be scheduled through a calendar and purchased in the app, though must be
     },
   ],
 };
+
