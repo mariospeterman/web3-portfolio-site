@@ -1,5 +1,5 @@
 const FONT_SCALE_BASE = 1;
-const FONT_SCALE_MULTIPLIER = 1.5;
+const FONT_SCALE_MULTIPLIER = 1.48;
 
 export const fonts = {
   heading: `'Major Mono Display', sans-serif`,
