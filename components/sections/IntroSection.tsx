@@ -71,9 +71,9 @@ const IntroSection = () => {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.8, duration: 0.8 }}
           >
-            <Heading size="md">Web3</Heading>
+            <Heading size="md">Audio</Heading>
             <Box flex={1} alignSelf="center" h="1px" bg="border-contrast-xl" />
-            <Heading size="md">Developer</Heading>
+            <Heading size="md">Enthusiast</Heading>
           </MotionHStack>
         </Stack>
       </Center>
