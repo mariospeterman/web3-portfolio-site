@@ -13,9 +13,9 @@ const Home: NextPage = () => {
   return (
     <ScrollContainer h="h-screen">
       <IntroSection />
-      <HeadingSection heading="ABOUT ME" />
+      <HeadingSection heading="ÜBER MICH" />
       <AboutSection />
-      <HeadingSection heading="PROJECTS" />
+      <HeadingSection heading="PROJEKTE" />
       {portfolio.projects.map((project) => (
         <ProjectSection key={project.name} project={project} />
       ))}
